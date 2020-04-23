@@ -1,0 +1,81 @@
+
+    .footer{
+        background:#313036;
+        color:#fff;
+        position: relative;
+    }
+    .botBar{
+        background:#353a40;
+        display:block;
+        padding-top:5px;
+        padding-bottom:5px;
+        text-align:center;
+        color:#fff;
+    }
+    .footerTitle{
+        font-size:2em;
+        font-weight:900;
+    }
+    .footerBox{
+        padding:3em!important;
+        box-sizing:border-box;
+        position: relative;
+    }
+    .footerContent{
+        padding : 0 0 1em 0;
+    }
+
+    .contactUsBox{
+        width: 400px;
+        height: 350px;
+    }
+    
+    .myForm{
+        
+        color: rgba(255, 255, 255, 0.5);
+        width: 200px;
+        height: 50px;
+        background: #272727;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .controlForm{
+        height:100px;
+    }
+
+    .textArea{
+        color: rgba(255, 255, 255, 0.5);
+        width: 200px;
+        height: 100% !important;
+        background: #272727;
+        border-radius: 5px;
+        border:none;
+    }
+
+    .contactUs{
+        
+        width: 165px;
+        height: 37px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 37px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .sendButton{
+        position: absolute;
+        width: 109px;
+        height: 49px;
+        background: #068189;
+        border-radius: 5px;
+        top: 266px;
+        bottom:35px;
+        left:241px;
+        right:50px;
+    }
